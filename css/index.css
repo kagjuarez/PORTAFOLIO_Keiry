@@ -122,11 +122,50 @@ header ul li:hover ul{
     width: 44em;
     height: 44em;
     background-color: ;
+    padding: 3em 3em 3em 3em;
+    text-align: center;
     margin: 1em;
-    border: 0.1em solid #8F8F8F;
-
-    
+    border: 0.1em solid #8F8F8F; 
 }
+
+/*__________Visualización de los proyectos__________*/
+
+
+.Poryectos_lotus{
+    width: 100%;
+    height: 60em;
+    margin-top: 5em;
+    background-image: url(../img/Fondo_proyectos-acuarelle.png);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.Pr_1{
+    width: 30em;
+    height: 40em;
+    background-color: aliceblue;
+    margin: 3em;
+}
+
+.Pr_2{
+    width: 30em;
+    height: 40em;
+    background-color: aliceblue;
+    margin: 3em;
+}
+
+.Pr_3{
+    width: 30em;
+    height: 40em;
+    background-color: aliceblue;
+    margin: 3em;
+}
+
+
+
+
 
 
 
