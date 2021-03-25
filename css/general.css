@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat';
 }
 
 :root{
@@ -14,7 +14,7 @@
 
 body{
     font-size: 10px;
-    background-color: gray;
+    background-color: #ffffff;
 }
 
 section{
