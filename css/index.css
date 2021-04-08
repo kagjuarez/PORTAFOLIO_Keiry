@@ -118,8 +118,8 @@ header ul li:hover ul{
 }
 
 .img_yo{
-    width: 44em;
-    height: 44em;
+    width: 50em;
+    height: 50em;
     background-color: ;
     margin: 1em;
     background-image: url(../img/Foto_perfil_acuarelle_BN.png);
@@ -130,13 +130,15 @@ header ul li:hover ul{
 }
 
 .yo_texto{
-    width: 44em;
-    height: 44em;
+    width: 30em;
+    height: 20em;
     background-color: ;
     padding: 3em 3em 3em 3em;
-    text-align: center;
+    text-align: left;
+    font-size: 1.5em;
+    padding-top: 9em;
     margin: 1em;
-    border: 0.1em solid #8F8F8F; 
+    border-left: 0.1em solid #898989;
 }
 
 /*__________Visualización de los proyectos__________*/
