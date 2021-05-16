@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Montserrat';
+    font-family: 'Raleway';
 }
 
 :root{
@@ -27,4 +27,19 @@ section{
     height: auto;
 }
 
+/************************************************
+# CONFIGURACION RESPONSIVE     #
+*************************************************/
+
+@media only screen and (max-width:1440px) {}
+
+@media only screen and (max-width:1366px) {}/*mio*/
+
+@media only screen and (max-width:1024px) {}
+
+@media only screen and (max-width:768px) {}
+
+@media only screen and (max-width: 480px) {}
+
+@media only screen and (max-width:320px) {}
 
