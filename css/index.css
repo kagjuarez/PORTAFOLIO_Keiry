@@ -198,7 +198,7 @@ header ul li:hover ul{
     width: 100em;
     height: 30em;
     margin: auto;
-    background-color: cadetblue;
+    background-color: #FFAEDE;
     
 }
 
@@ -238,6 +238,17 @@ header ul li:hover ul{
     background-color: #ffffff;
     margin: 3em;
 }
+
+/*__________________FOOTER_________________*/
+
+footer{
+    background-color: #373737 ;
+    bottom: 0;
+   
+    width: 100%;
+    height: 20em;
+}
+
 
 
 
