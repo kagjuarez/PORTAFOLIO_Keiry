@@ -74,6 +74,7 @@ header ul li:hover ul{
 .Ban{
     
     background-image: url(../img/FOND_hd-min.png);
+    background-attachment: fixed;
     width: 100%;
     height: calc(100vh - 5em);
     background-size: 100% 100%;
